@@ -12,3 +12,7 @@ header {
 h2 {
 	color: red;
 	}
+aside nav a {
+	display: block;
+	text align: center;
+	}
